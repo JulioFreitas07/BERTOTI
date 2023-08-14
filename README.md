@@ -24,3 +24,10 @@ Três exemplos  de trade-offs:
     2. Power Bi: Praticidade X Limitação
 
     3. App de instituição financeiro: Portabilidade X Velocidade
+
+
+Terceira Atividade:
+
+    Podemos citar o Power BI Desktop, o qual é usado para criar relatórios. Apesar dele aprensentar limitações 
+    e também exibir os mesmos requisitos funcionais de muitas outras ferramentas de desenvolvimento de relatório, 
+    o Power Bi apresenta um layout fácil e intuitivo, portanto, a experiência do usuário torna-se um agravante expressivo.

@@ -82,3 +82,7 @@ realiza a solução com foco não só na resolução do problema, mas na escalab
     - poorly applied: a falta de documenteção ou ajuda torna a experiência do usuário negativa, pois ele é obrigado a perder tempo para descobrir como resolver o problema que ele está tendo no software, sendo que esse próprio software já poderia ter essa solução.
 
 
+![DiagramaDeCasoDeUso drawio](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/c067ca14-1c75-4cf4-b637-ed13fd900aa1)
+![diagramadeclasses drawio](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/50170bca-0bd6-4329-85d4-1a7156486aa7)
+
+

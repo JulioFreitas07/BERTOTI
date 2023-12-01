@@ -31,6 +31,8 @@ realiza a solução com foco não só na resolução do problema, mas na escalab
 3. Requisito não funcional de usabilidade - avaliar 10 heurísticas 
 
    #1: Visibility of system status
+![1heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/97b74151-46f6-43e9-b973-0d380982d517)
+
     
     - well applied: Quando fazemos o cadastro de algo, preenchemos algum formulário, e após clicar no botão "enviar" temos um feedback da interface informando que o arquivo foi enviado.
     

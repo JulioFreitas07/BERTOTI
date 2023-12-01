@@ -32,54 +32,77 @@ realiza a solução com foco não só na resolução do problema, mas na escalab
 
    #1: Visibility of system status
 ![1heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/97b74151-46f6-43e9-b973-0d380982d517)
-
-    
+   
     - well applied: Quando fazemos o cadastro de algo, preenchemos algum formulário, e após clicar no botão "enviar" temos um feedback da interface informando que o arquivo foi enviado.
     
     - poorly applied: Gerar/criar exception  sem descrição.
 
     #2: Match between system and the real world
+![2heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/24c08310-717c-42b3-b378-e7370933529b)
+
  
     - well applied: A tela inicial do windows após a primeira configuração é um exemplo perfeito disso, ela exibe mensagens como: "preparando o ambiente para você", "aguarde", "bem vindo". Aleḿ disso, podemos citar as 'pastas' do computador, as quais nos direcionam a presumir que são destinadas á guardar arquivos, semelhante ao que temos no mundo real.
 
     - poorly applied: A má aplicação dessa heurística traz confusão para o usuário, pois pode sinalizar algo que não faz sentido com o mundo real. 
 
     #3: User control and freedom
+   ![3heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/eafef561-18db-4752-be16-f9a9f2b39fb4)
+
 
     - well applied: Um exemplo dessa heurística bem aplicada é quando clicamos no download de algum arquivo na web, e durante o download nós temos a opção de parar ele.
     
     - poorly applied: Provalvelmente o backup forçado do  whatsapp é um exemplo de como não aplicar bem essa heurística. Tendo em vista que não temos a opção de parar esse backup, nos tirando a liberdade de escolha naquele momento.
 
     #4: Consistency and standards
+   ![4heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/e689af42-40b0-4c2a-a692-fde71641a6f1)
+
 
     - well applied: Uma boa aplicação disso é o uso do ícone de uma engrenagem para acessar as configurações do sistema, pois é um padrão.
     - poorly applied: Esse exemplo mal aplicado seria quando o usuário tivesse que entender um novo termo para fazer a mesma coisa, por exemplo, suponha que 'cadastrar' em um sistema fosse 'preencher ficha', em outro fosse 'inserir informações' e em outro fosse 'popular dados'.
 
     #5: Error prevention
+![5heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/3efc6d00-6d56-4750-824a-23b3c60900e8)
+
+   
     - well applied: Justamente a criação de um tempo de espera após enviar o email.
     - poorly applied: Podemos citar o envio dos emails antes de criarem a opção de cancelar o envio após 7segundos
 
 
     #6: Recognition rather than recall
+![6heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/a844f36a-b858-4c28-bb74-126c3d46f58d)
+
+   
     - well applied: Podemos notar o reconhecimento por exemplo da interface 'contatos' que vemos quando a acessamos no mobile, na verdades, os iconês dos apps nativos dos celulares são absudamente semelhantes, independente se são IOS ou Android 
     - poorly applied: Essa heuristica mal aplicada seria por exemplo o uso do Linux versus Windows, ao olhar essa diferença, temos poucas correlações na experiência do usuário
 
 
     #7: Flexibility and efficiency of use
+![7heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/440f7365-b6aa-40f4-a197-e9fd4994f23a)
+
+   
     - well applied: Os atalhos de teclado durante o uso do Chrome por exemplo. Posso criar uma aba sem ter que usar o mouse, posso acessar a barra do navegador apenas usando Ctrl + L. Vemos isso também na sugestão de palavras no teclado dp whatsapp.
     - poorly applied: Imagino isso em uma interface sem atalhos, e sem sugestões de encurtar processos repetitivos e frenquentes
 
 
     #8: Aesthetic and minimalist design
+![8heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/1ab91f71-49ce-4bab-bf6e-266306e06cdb)
+
+   
     - well applied: Podemos encontrar isso na tela home do Google, tem apenas um nome 'Google' e uma barra de pesquisa
     - poorly applied: Vemos isso no sistema SAP, o qual é absurdamente poluído com todas as informações imagináveis.
 
 
     #9: Help users recognize, diagnose, and recover from errors
+ ![9heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/07c2de0c-afcd-49e0-9049-90ed712b1f56)
+  
+
     - well applied: Por exemplo, no facebook,  quando queremos deletar nossa conta e ele nos faz escrever uma mensagem somente para confirmar a ação, pois trata-se de um processo cuja ação pode até ser irreversível
     - poorly applied: Seria se algum cadastro deixasse o usuário inserir uma data de nascimento superior à data atual.
 
     #10: Help and documentation
+![10heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/6895190f-dfb6-438e-b9f8-a8b31b6aeb36)
+
+   
     - well applied: Podemos aqui citar a documentação do github, a qual é facil e útil ao usuário
     - poorly applied: a falta de documenteção ou ajuda torna a experiência do usuário negativa, pois ele é obrigado a perder tempo para descobrir como resolver o problema que ele está tendo no software, sendo que esse próprio software já poderia ter essa solução.
 

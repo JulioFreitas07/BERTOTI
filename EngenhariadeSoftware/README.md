@@ -31,6 +31,7 @@ realiza a solução com foco não só na resolução do problema, mas na escalab
 3. Requisito não funcional de usabilidade - avaliar 10 heurísticas 
 
    #1: Visibility of system status
+
 ![1heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/97b74151-46f6-43e9-b973-0d380982d517)
    
     - well applied: Quando fazemos o cadastro de algo, preenchemos algum formulário, e após clicar no botão "enviar" temos um feedback da interface informando que o arquivo foi enviado.
@@ -38,6 +39,7 @@ realiza a solução com foco não só na resolução do problema, mas na escalab
     - poorly applied: Gerar/criar exception  sem descrição.
 
     #2: Match between system and the real world
+
 ![2heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/24c08310-717c-42b3-b378-e7370933529b)
 
  
@@ -46,6 +48,7 @@ realiza a solução com foco não só na resolução do problema, mas na escalab
     - poorly applied: A má aplicação dessa heurística traz confusão para o usuário, pois pode sinalizar algo que não faz sentido com o mundo real. 
 
     #3: User control and freedom
+   
    ![3heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/eafef561-18db-4752-be16-f9a9f2b39fb4)
 
 
@@ -54,6 +57,7 @@ realiza a solução com foco não só na resolução do problema, mas na escalab
     - poorly applied: Provalvelmente o backup forçado do  whatsapp é um exemplo de como não aplicar bem essa heurística. Tendo em vista que não temos a opção de parar esse backup, nos tirando a liberdade de escolha naquele momento.
 
     #4: Consistency and standards
+   
    ![4heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/e689af42-40b0-4c2a-a692-fde71641a6f1)
 
 
@@ -61,6 +65,7 @@ realiza a solução com foco não só na resolução do problema, mas na escalab
     - poorly applied: Esse exemplo mal aplicado seria quando o usuário tivesse que entender um novo termo para fazer a mesma coisa, por exemplo, suponha que 'cadastrar' em um sistema fosse 'preencher ficha', em outro fosse 'inserir informações' e em outro fosse 'popular dados'.
 
     #5: Error prevention
+
 ![5heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/3efc6d00-6d56-4750-824a-23b3c60900e8)
 
    
@@ -69,6 +74,7 @@ realiza a solução com foco não só na resolução do problema, mas na escalab
 
 
     #6: Recognition rather than recall
+
 ![6heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/a844f36a-b858-4c28-bb74-126c3d46f58d)
 
    
@@ -77,6 +83,7 @@ realiza a solução com foco não só na resolução do problema, mas na escalab
 
 
     #7: Flexibility and efficiency of use
+
 ![7heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/440f7365-b6aa-40f4-a197-e9fd4994f23a)
 
    
@@ -85,6 +92,7 @@ realiza a solução com foco não só na resolução do problema, mas na escalab
 
 
     #8: Aesthetic and minimalist design
+
 ![8heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/1ab91f71-49ce-4bab-bf6e-266306e06cdb)
 
    
@@ -93,6 +101,7 @@ realiza a solução com foco não só na resolução do problema, mas na escalab
 
 
     #9: Help users recognize, diagnose, and recover from errors
+ 
  ![9heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/07c2de0c-afcd-49e0-9049-90ed712b1f56)
   
 
@@ -100,6 +109,7 @@ realiza a solução com foco não só na resolução do problema, mas na escalab
     - poorly applied: Seria se algum cadastro deixasse o usuário inserir uma data de nascimento superior à data atual.
 
     #10: Help and documentation
+
 ![10heuris](https://github.com/JulioFreitas07/BERTOTI/assets/127301327/6895190f-dfb6-438e-b9f8-a8b31b6aeb36)
 
    

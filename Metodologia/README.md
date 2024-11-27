@@ -4,9 +4,9 @@ Meu nome é Julio Cesar Ferreira de Freitas, aluno do curso superior em banco de
 
 ## Contatos
 
-**Git**: https://github.com/GabrielBartolomeu1
+**Git**: https://github.com/JulioFreitas07
 <br>
-**LinkedIn**: https://www.linkedin.com/in/gabiel-guska-5860a1271/
+**LinkedIn**: https://www.linkedin.com/in/juliofreitas/
 
 ## Meus Principais Conhecimentos
 - MySQL
